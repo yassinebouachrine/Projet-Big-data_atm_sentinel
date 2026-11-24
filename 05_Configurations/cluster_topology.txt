@@ -1,0 +1,5 @@
+CLUSTER ATM-SENTINEL TOPOLOGY:
+- VM1 (192.168.1.138): Elasticsearch 8.19.23 (Master-eligible / Data Node)
+- VM2 (192.168.1.113): Elasticsearch 8.19.23 (Master Node) + Logstash 8.19.23 (Pipeline & DLQ)
+- VM3 (192.168.1.127): Elasticsearch 8.19.23 (Data Node) + Kibana 8.19.23 (Port 5601)
+- VM4 (192.168.1.124): Apache Spark 3.5.3 (Batch, Structured Streaming, GraphFrames)

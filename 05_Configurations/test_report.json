@@ -1,0 +1,85 @@
+{
+  "project": "ATM Sentinel",
+  "students": [
+    "Yassine BOUACHRINE",
+    "Lahcen AHTAT"
+  ],
+  "date": "2026-11-24T11:24:09.705659",
+  "total_tests": 12,
+  "passed": 11,
+  "success_rate_percent": 91.66666666666666,
+  "tests": [
+    {
+      "category": "UNIT",
+      "name": "Formule Z-Score de d\u00e9tection de fraude",
+      "status": "PASSED",
+      "details": "Montant: 100000.0 NGN -> Z=2.335 (> seuil 1.5)"
+    },
+    {
+      "category": "UNIT",
+      "name": "Filtrage des anomalies temporelles Logstash/Ruby",
+      "status": "PASSED",
+      "details": "Rejet certifi\u00e9 des mois 13, heures 99:99 et formats invalides"
+    },
+    {
+      "category": "UNIT",
+      "name": "Validation de positivit\u00e9 des montants financiers",
+      "status": "PASSED",
+      "details": "Montants <= 0 syst\u00e9matiquement rout\u00e9s vers atm-rejects-final"
+    },
+    {
+      "category": "INTEGRATION",
+      "name": "Sant\u00e9 globale du Cluster Elasticsearch",
+      "status": "PASSED",
+      "details": "Statut: green | N\u0153uds actifs: 3/3 | Latence: 679.6ms"
+    },
+    {
+      "category": "INTEGRATION",
+      "name": "Quorum et connectivit\u00e9 TLS inter-n\u0153uds (VM1, VM2, VM3)",
+      "status": "PASSED",
+      "details": "3 n\u0153uds interconnect\u00e9s sur le port 9300 avec TLS activ\u00e9"
+    },
+    {
+      "category": "INTEGRATION",
+      "name": "Conservation volum\u00e9trique totale (Zero Data Loss)",
+      "status": "PASSED",
+      "details": "Source CSV: 30 300 -> Index\u00e9s: 28845 valides + 1455 rejets = 30300"
+    },
+    {
+      "category": "RESILIENCE",
+      "name": "Cat\u00e9gorisation des rejets par typologie d'erreur",
+      "status": "PASSED",
+      "details": "100% des anomalies qualifi\u00e9es : BAD_AMOUNT, INVALID_DATE, DUPLICATE, MISSING_FIELD"
+    },
+    {
+      "category": "RESILIENCE",
+      "name": "D\u00e9duplication par transaction_id (_id unique)",
+      "status": "PASSED",
+      "details": "285 doublons isol\u00e9s avec succ\u00e8s, aucune collision dans l'index nominal"
+    },
+    {
+      "category": "RESILIENCE",
+      "name": "M\u00e9canisme de reprise sur panne Streaming (State Store Checkpoint)",
+      "status": "PASSED",
+      "details": "Offsets et snapshot de fen\u00eatres persist\u00e9s sur disque pour tol\u00e9rance aux pannes"
+    },
+    {
+      "category": "PERFORMANCE",
+      "name": "Temps de r\u00e9ponse aux requ\u00eates analytiques ES",
+      "status": "FAILED",
+      "details": "Latence moyenne: 214.26 ms | P95: 491.62 ms (Seuil SLA < 100 ms)"
+    },
+    {
+      "category": "PERFORMANCE",
+      "name": "D\u00e9bit de traitement du pipeline Logstash",
+      "status": "PASSED",
+      "details": "D\u00e9bit mesur\u00e9: ~2020 \u00e9v\u00e9nements/seconde (Batch size = 2000)"
+    },
+    {
+      "category": "PERFORMANCE",
+      "name": "Convergence des algorithmes Spark (PageRank 10 it\u00e9rations)",
+      "status": "PASSED",
+      "details": "Calcul distribu\u00e9 sur 1 000 sommets et 3 500 ar\u00eates ex\u00e9cut\u00e9 en < 12 secondes"
+    }
+  ]
+}

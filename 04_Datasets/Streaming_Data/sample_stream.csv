@@ -1,0 +1,20 @@
+transaction_id,start_time,end_time,duration_sec,cardholder_id,atm_id,location_name,city,state,transaction_type_id,transaction_type,amount,account_type,occupation,gender,is_holiday
+TX-2023-00000001,2023-07-30 12:12:37,2023-07-30 12:13:02,25,CUST-1844,ATM-FE-024,Branch_Abuja,Abuja,Federal Capital Territory,4,Transfer,100000.0,Checking,Trader,Male,True
+TX-2023-00000002,2023-11-19 08:49:11,2023-11-19 08:50:29,78,CUST-1105,ATM-KA-048,Branch_Kano,Kano,Kano,3,Balance Inquiry,0.0,Checking,Engineer,Male,True
+TX-2023-00000003,2023-12-01 20:16:58,2023-12-01 20:17:35,37,CUST-1270,ATM-EN-023,Branch_Enugu,Enugu,Enugu,4,Transfer,5000.0,Savings,Doctor,Male,True
+TX-2023-00000004,2023-08-17 07:50:52,2023-08-17 07:52:36,104,CUST-1831,ATM-KA-048,Branch_Kano,Kano,Kano,4,Transfer,10000.0,Savings,Trader,Female,True
+TX-2023-00000005,2023-11-09 19:14:58,2023-11-09 19:15:28,30,CUST-1834,ATM-EN-014,Branch_Nsukka,Nsukka,Enugu,3,Balance Inquiry,0.0,Current,Teacher,Male,False
+TX-2023-00000006,2023-05-06 16:40:13,2023-05-06 16:41:42,89,CUST-1552,ATM-KA-011,Branch_Kano,Kano,Kano,3,Balance Inquiry,0.0,Current,Doctor,Female,False
+TX-2023-00000007,2023-11-13 14:02:12,2023-11-13 14:02:51,39,CUST-1922,ATM-KA-044,Branch_Kano,Kano,Kano,2,Deposit,50000.0,Checking,Trader,Male,True
+TX-2023-00000008,2023-02-19 06:41:00,2023-02-19 06:41:48,48,CUST-1888,ATM-RI-042,Branch_Bonny,Bonny,Rivers State,2,Deposit,10000.0,Savings,Trader,Male,False
+TX-2023-00000009,2023-06-02 12:14:10,2023-06-02 12:16:30,140,CUST-1780,ATM-KA-044,Branch_Kano,Kano,Kano,2,Deposit,100000.0,Current,Teacher,Female,False
+TX-2023-00000010,2023-06-25 12:52:05,2023-06-25 12:52:39,34,CUST-1425,ATM-FE-025,Branch_Abuja,Abuja,Federal Capital Territory,1,Withdrawal,10000.0,Current,Trader,Male,False
+TX-2023-00000011,2023-06-26 14:04:14,2023-06-26 14:06:33,139,CUST-1899,ATM-FE-024,Branch_Abuja,Abuja,Federal Capital Territory,3,Balance Inquiry,0.0,Current,Student,Male,True
+TX-2023-00000012,2023-06-28 01:03:24,2023-06-28 01:06:21,177,CUST-1096,ATM-KA-047,Branch_Kano,Kano,Kano,3,Balance Inquiry,0.0,Current,Student,Female,True
+TX-2023-00000013,2023-06-16 20:33:50,2023-06-16 20:34:59,69,CUST-1408,ATM-EN-014,Branch_Nsukka,Nsukka,Enugu,4,Transfer,25000.0,Checking,Trader,Male,False
+TX-2023-00000014,2023-08-13 10:43:55,2023-08-13 10:44:43,48,CUST-1346,ATM-FE-036,Branch_Abuja,Abuja,Federal Capital Territory,4,Transfer,25000.0,Savings,Engineer,Female,True
+TX-2023-00000015,2023-11-01 10:22:55,2023-11-01 10:25:07,132,CUST-1102,ATM-KA-041,Branch_Kano,Kano,Kano,1,Withdrawal,1000.0,Checking,Engineer,Female,True
+TX-2023-00000016,2023-06-16 03:22:42,2023-06-16 03:23:48,66,CUST-1468,ATM-LA-001,Branch_Lagos,Lagos,Lagos,2,Deposit,25000.0,Checking,Doctor,Male,True
+TX-2023-00000017,2023-05-20 23:30:04,2023-05-20 23:31:23,79,CUST-1096,ATM-RI-042,Branch_Bonny,Bonny,Rivers State,1,Withdrawal,5000.0,Savings,Student,Female,True
+TX-2023-00000018,2023-04-29 15:33:09,2023-04-29 15:34:23,74,CUST-1406,ATM-KA-041,Branch_Kano,Kano,Kano,4,Transfer,5000.0,Savings,Civil Servant,Female,True
+TX-2023-00000019,2023-01-31 06:26:29,2023-01-31 06:27:17,48,CUST-1219,ATM-RI-031,Branch_Bonny,Bonny,Rivers State,2,Deposit,100000.0,Savings,Engineer,Female,False

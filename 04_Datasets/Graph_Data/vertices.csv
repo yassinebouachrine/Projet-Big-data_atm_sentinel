@@ -1,0 +1,1001 @@
+id,name,vertex_type,state,detail
+1,ATM-LA-001,ATM,Lagos,Lagos
+2,ATM-RI-002,ATM,Rivers State,Port Harcourt
+3,ATM-KA-003,ATM,Kano,Kano
+4,ATM-LA-004,ATM,Lagos,Lagos
+5,ATM-FE-005,ATM,Federal Capital Territory,Abuja
+6,ATM-LA-006,ATM,Lagos,Lagos
+7,ATM-LA-007,ATM,Lagos,Lagos
+8,ATM-KA-008,ATM,Kano,Kano
+9,ATM-FE-009,ATM,Federal Capital Territory,Abuja
+10,ATM-FE-010,ATM,Federal Capital Territory,Abuja
+11,ATM-KA-011,ATM,Kano,Kano
+12,ATM-FE-012,ATM,Federal Capital Territory,Abuja
+13,ATM-LA-013,ATM,Lagos,Lagos
+14,ATM-EN-014,ATM,Enugu,Nsukka
+15,ATM-RI-015,ATM,Rivers State,Port Harcourt
+16,ATM-KA-016,ATM,Kano,Kano
+17,ATM-LA-017,ATM,Lagos,Lagos
+18,ATM-EN-018,ATM,Enugu,Enugu
+19,ATM-RI-019,ATM,Rivers State,Bonny
+20,ATM-FE-020,ATM,Federal Capital Territory,Abuja
+21,ATM-LA-021,ATM,Lagos,Ikeja
+22,ATM-FE-022,ATM,Federal Capital Territory,Abuja
+23,ATM-EN-023,ATM,Enugu,Enugu
+24,ATM-FE-024,ATM,Federal Capital Territory,Abuja
+25,ATM-FE-025,ATM,Federal Capital Territory,Abuja
+26,ATM-FE-026,ATM,Federal Capital Territory,Abuja
+27,ATM-LA-027,ATM,Lagos,Lagos
+28,ATM-KA-028,ATM,Kano,Kano
+29,ATM-LA-029,ATM,Lagos,Lagos
+30,ATM-LA-030,ATM,Lagos,Ikeja
+31,ATM-RI-031,ATM,Rivers State,Bonny
+32,ATM-RI-032,ATM,Rivers State,Port Harcourt
+33,ATM-RI-033,ATM,Rivers State,Bonny
+34,ATM-KA-034,ATM,Kano,Kano
+35,ATM-LA-035,ATM,Lagos,Lagos
+36,ATM-FE-036,ATM,Federal Capital Territory,Abuja
+37,ATM-KA-037,ATM,Kano,Kano
+38,ATM-EN-038,ATM,Enugu,Nsukka
+39,ATM-FE-039,ATM,Federal Capital Territory,Abuja
+40,ATM-RI-040,ATM,Rivers State,Port Harcourt
+41,ATM-KA-041,ATM,Kano,Kano
+42,ATM-RI-042,ATM,Rivers State,Bonny
+43,ATM-RI-043,ATM,Rivers State,Port Harcourt
+44,ATM-KA-044,ATM,Kano,Kano
+45,ATM-KA-045,ATM,Kano,Kano
+46,ATM-EN-046,ATM,Enugu,Nsukka
+47,ATM-KA-047,ATM,Kano,Kano
+48,ATM-KA-048,ATM,Kano,Kano
+49,ATM-FE-049,ATM,Federal Capital Territory,Abuja
+50,ATM-FE-050,ATM,Federal Capital Territory,Abuja
+1001,CUST-1001,Cardholder,Federal Capital Territory,Trader
+1002,CUST-1002,Cardholder,Kano,Student
+1003,CUST-1003,Cardholder,Enugu,Engineer
+1004,CUST-1004,Cardholder,Lagos,Civil Servant
+1005,CUST-1005,Cardholder,Kano,Student
+1006,CUST-1006,Cardholder,Lagos,Doctor
+1007,CUST-1007,Cardholder,Federal Capital Territory,Student
+1008,CUST-1008,Cardholder,Rivers State,Civil Servant
+1009,CUST-1009,Cardholder,Lagos,Civil Servant
+1010,CUST-1010,Cardholder,Rivers State,Trader
+1011,CUST-1011,Cardholder,Enugu,Doctor
+1012,CUST-1012,Cardholder,Lagos,Student
+1013,CUST-1013,Cardholder,Kano,Civil Servant
+1014,CUST-1014,Cardholder,Rivers State,Teacher
+1015,CUST-1015,Cardholder,Rivers State,Student
+1016,CUST-1016,Cardholder,Federal Capital Territory,Student
+1017,CUST-1017,Cardholder,Rivers State,Engineer
+1018,CUST-1018,Cardholder,Lagos,Trader
+1019,CUST-1019,Cardholder,Kano,Teacher
+1020,CUST-1020,Cardholder,Federal Capital Territory,Engineer
+1021,CUST-1021,Cardholder,Enugu,Student
+1022,CUST-1022,Cardholder,Kano,Civil Servant
+1023,CUST-1023,Cardholder,Enugu,Trader
+1024,CUST-1024,Cardholder,Federal Capital Territory,Teacher
+1025,CUST-1025,Cardholder,Federal Capital Territory,Civil Servant
+1026,CUST-1026,Cardholder,Rivers State,Civil Servant
+1027,CUST-1027,Cardholder,Rivers State,Student
+1028,CUST-1028,Cardholder,Enugu,Teacher
+1029,CUST-1029,Cardholder,Kano,Trader
+1030,CUST-1030,Cardholder,Lagos,Student
+1031,CUST-1031,Cardholder,Kano,Engineer
+1032,CUST-1032,Cardholder,Lagos,Engineer
+1033,CUST-1033,Cardholder,Lagos,Engineer
+1034,CUST-1034,Cardholder,Federal Capital Territory,Trader
+1035,CUST-1035,Cardholder,Enugu,Student
+1036,CUST-1036,Cardholder,Kano,Teacher
+1037,CUST-1037,Cardholder,Enugu,Teacher
+1038,CUST-1038,Cardholder,Lagos,Civil Servant
+1039,CUST-1039,Cardholder,Enugu,Doctor
+1040,CUST-1040,Cardholder,Enugu,Civil Servant
+1041,CUST-1041,Cardholder,Lagos,Engineer
+1042,CUST-1042,Cardholder,Enugu,Engineer
+1043,CUST-1043,Cardholder,Kano,Teacher
+1044,CUST-1044,Cardholder,Federal Capital Territory,Teacher
+1045,CUST-1045,Cardholder,Enugu,Trader
+1046,CUST-1046,Cardholder,Enugu,Engineer
+1047,CUST-1047,Cardholder,Enugu,Engineer
+1048,CUST-1048,Cardholder,Federal Capital Territory,Engineer
+1049,CUST-1049,Cardholder,Kano,Doctor
+1050,CUST-1050,Cardholder,Enugu,Teacher
+1051,CUST-1051,Cardholder,Enugu,Teacher
+1052,CUST-1052,Cardholder,Enugu,Doctor
+1053,CUST-1053,Cardholder,Rivers State,Trader
+1054,CUST-1054,Cardholder,Enugu,Teacher
+1055,CUST-1055,Cardholder,Kano,Teacher
+1056,CUST-1056,Cardholder,Lagos,Civil Servant
+1057,CUST-1057,Cardholder,Rivers State,Engineer
+1058,CUST-1058,Cardholder,Federal Capital Territory,Student
+1059,CUST-1059,Cardholder,Federal Capital Territory,Engineer
+1060,CUST-1060,Cardholder,Federal Capital Territory,Teacher
+1061,CUST-1061,Cardholder,Lagos,Civil Servant
+1062,CUST-1062,Cardholder,Kano,Engineer
+1063,CUST-1063,Cardholder,Federal Capital Territory,Student
+1064,CUST-1064,Cardholder,Federal Capital Territory,Student
+1065,CUST-1065,Cardholder,Lagos,Civil Servant
+1066,CUST-1066,Cardholder,Federal Capital Territory,Trader
+1067,CUST-1067,Cardholder,Kano,Teacher
+1068,CUST-1068,Cardholder,Rivers State,Teacher
+1069,CUST-1069,Cardholder,Rivers State,Trader
+1070,CUST-1070,Cardholder,Lagos,Doctor
+1071,CUST-1071,Cardholder,Federal Capital Territory,Engineer
+1072,CUST-1072,Cardholder,Federal Capital Territory,Student
+1073,CUST-1073,Cardholder,Rivers State,Trader
+1074,CUST-1074,Cardholder,Lagos,Trader
+1075,CUST-1075,Cardholder,Rivers State,Doctor
+1076,CUST-1076,Cardholder,Federal Capital Territory,Student
+1077,CUST-1077,Cardholder,Federal Capital Territory,Civil Servant
+1078,CUST-1078,Cardholder,Federal Capital Territory,Civil Servant
+1079,CUST-1079,Cardholder,Lagos,Trader
+1080,CUST-1080,Cardholder,Lagos,Civil Servant
+1081,CUST-1081,Cardholder,Federal Capital Territory,Trader
+1082,CUST-1082,Cardholder,Rivers State,Civil Servant
+1083,CUST-1083,Cardholder,Rivers State,Civil Servant
+1084,CUST-1084,Cardholder,Rivers State,Trader
+1085,CUST-1085,Cardholder,Lagos,Civil Servant
+1086,CUST-1086,Cardholder,Enugu,Engineer
+1087,CUST-1087,Cardholder,Lagos,Teacher
+1088,CUST-1088,Cardholder,Rivers State,Civil Servant
+1089,CUST-1089,Cardholder,Enugu,Student
+1090,CUST-1090,Cardholder,Lagos,Engineer
+1091,CUST-1091,Cardholder,Kano,Trader
+1092,CUST-1092,Cardholder,Federal Capital Territory,Doctor
+1093,CUST-1093,Cardholder,Kano,Trader
+1094,CUST-1094,Cardholder,Rivers State,Trader
+1095,CUST-1095,Cardholder,Kano,Civil Servant
+1096,CUST-1096,Cardholder,Lagos,Student
+1097,CUST-1097,Cardholder,Enugu,Teacher
+1098,CUST-1098,Cardholder,Kano,Doctor
+1099,CUST-1099,Cardholder,Lagos,Civil Servant
+1100,CUST-1100,Cardholder,Rivers State,Civil Servant
+1101,CUST-1101,Cardholder,Kano,Teacher
+1102,CUST-1102,Cardholder,Lagos,Engineer
+1103,CUST-1103,Cardholder,Enugu,Teacher
+1104,CUST-1104,Cardholder,Enugu,Trader
+1105,CUST-1105,Cardholder,Kano,Engineer
+1106,CUST-1106,Cardholder,Kano,Trader
+1107,CUST-1107,Cardholder,Rivers State,Trader
+1108,CUST-1108,Cardholder,Rivers State,Civil Servant
+1109,CUST-1109,Cardholder,Federal Capital Territory,Engineer
+1110,CUST-1110,Cardholder,Lagos,Teacher
+1111,CUST-1111,Cardholder,Federal Capital Territory,Engineer
+1112,CUST-1112,Cardholder,Lagos,Trader
+1113,CUST-1113,Cardholder,Rivers State,Student
+1114,CUST-1114,Cardholder,Federal Capital Territory,Doctor
+1115,CUST-1115,Cardholder,Federal Capital Territory,Trader
+1116,CUST-1116,Cardholder,Lagos,Engineer
+1117,CUST-1117,Cardholder,Federal Capital Territory,Trader
+1118,CUST-1118,Cardholder,Enugu,Civil Servant
+1119,CUST-1119,Cardholder,Rivers State,Civil Servant
+1120,CUST-1120,Cardholder,Lagos,Student
+1121,CUST-1121,Cardholder,Rivers State,Trader
+1122,CUST-1122,Cardholder,Enugu,Student
+1123,CUST-1123,Cardholder,Kano,Doctor
+1124,CUST-1124,Cardholder,Enugu,Student
+1125,CUST-1125,Cardholder,Federal Capital Territory,Doctor
+1126,CUST-1126,Cardholder,Federal Capital Territory,Trader
+1127,CUST-1127,Cardholder,Rivers State,Doctor
+1128,CUST-1128,Cardholder,Federal Capital Territory,Doctor
+1129,CUST-1129,Cardholder,Enugu,Civil Servant
+1130,CUST-1130,Cardholder,Kano,Civil Servant
+1131,CUST-1131,Cardholder,Kano,Trader
+1132,CUST-1132,Cardholder,Federal Capital Territory,Engineer
+1133,CUST-1133,Cardholder,Kano,Teacher
+1134,CUST-1134,Cardholder,Kano,Engineer
+1135,CUST-1135,Cardholder,Lagos,Doctor
+1136,CUST-1136,Cardholder,Federal Capital Territory,Doctor
+1137,CUST-1137,Cardholder,Enugu,Civil Servant
+1138,CUST-1138,Cardholder,Enugu,Doctor
+1139,CUST-1139,Cardholder,Kano,Civil Servant
+1140,CUST-1140,Cardholder,Lagos,Doctor
+1141,CUST-1141,Cardholder,Kano,Civil Servant
+1142,CUST-1142,Cardholder,Federal Capital Territory,Engineer
+1143,CUST-1143,Cardholder,Federal Capital Territory,Engineer
+1144,CUST-1144,Cardholder,Enugu,Doctor
+1145,CUST-1145,Cardholder,Federal Capital Territory,Doctor
+1146,CUST-1146,Cardholder,Federal Capital Territory,Student
+1147,CUST-1147,Cardholder,Enugu,Civil Servant
+1148,CUST-1148,Cardholder,Enugu,Trader
+1149,CUST-1149,Cardholder,Kano,Student
+1150,CUST-1150,Cardholder,Enugu,Trader
+1151,CUST-1151,Cardholder,Enugu,Civil Servant
+1152,CUST-1152,Cardholder,Rivers State,Trader
+1153,CUST-1153,Cardholder,Rivers State,Student
+1154,CUST-1154,Cardholder,Lagos,Teacher
+1155,CUST-1155,Cardholder,Kano,Civil Servant
+1156,CUST-1156,Cardholder,Kano,Engineer
+1157,CUST-1157,Cardholder,Enugu,Trader
+1158,CUST-1158,Cardholder,Federal Capital Territory,Doctor
+1159,CUST-1159,Cardholder,Lagos,Doctor
+1160,CUST-1160,Cardholder,Enugu,Student
+1161,CUST-1161,Cardholder,Enugu,Engineer
+1162,CUST-1162,Cardholder,Rivers State,Doctor
+1163,CUST-1163,Cardholder,Enugu,Doctor
+1164,CUST-1164,Cardholder,Kano,Doctor
+1165,CUST-1165,Cardholder,Enugu,Doctor
+1166,CUST-1166,Cardholder,Rivers State,Civil Servant
+1167,CUST-1167,Cardholder,Kano,Teacher
+1168,CUST-1168,Cardholder,Federal Capital Territory,Doctor
+1169,CUST-1169,Cardholder,Federal Capital Territory,Engineer
+1170,CUST-1170,Cardholder,Enugu,Doctor
+1171,CUST-1171,Cardholder,Kano,Trader
+1172,CUST-1172,Cardholder,Enugu,Teacher
+1173,CUST-1173,Cardholder,Enugu,Trader
+1174,CUST-1174,Cardholder,Enugu,Doctor
+1175,CUST-1175,Cardholder,Rivers State,Doctor
+1176,CUST-1176,Cardholder,Lagos,Trader
+1177,CUST-1177,Cardholder,Kano,Civil Servant
+1178,CUST-1178,Cardholder,Lagos,Teacher
+1179,CUST-1179,Cardholder,Kano,Student
+1180,CUST-1180,Cardholder,Kano,Teacher
+1181,CUST-1181,Cardholder,Enugu,Student
+1182,CUST-1182,Cardholder,Kano,Civil Servant
+1183,CUST-1183,Cardholder,Rivers State,Teacher
+1184,CUST-1184,Cardholder,Federal Capital Territory,Teacher
+1185,CUST-1185,Cardholder,Rivers State,Student
+1186,CUST-1186,Cardholder,Lagos,Student
+1187,CUST-1187,Cardholder,Enugu,Civil Servant
+1188,CUST-1188,Cardholder,Kano,Student
+1189,CUST-1189,Cardholder,Kano,Civil Servant
+1190,CUST-1190,Cardholder,Rivers State,Student
+1191,CUST-1191,Cardholder,Lagos,Student
+1192,CUST-1192,Cardholder,Enugu,Engineer
+1193,CUST-1193,Cardholder,Federal Capital Territory,Engineer
+1194,CUST-1194,Cardholder,Enugu,Engineer
+1195,CUST-1195,Cardholder,Enugu,Civil Servant
+1196,CUST-1196,Cardholder,Enugu,Doctor
+1197,CUST-1197,Cardholder,Kano,Student
+1198,CUST-1198,Cardholder,Federal Capital Territory,Doctor
+1199,CUST-1199,Cardholder,Enugu,Trader
+1200,CUST-1200,Cardholder,Kano,Trader
+1201,CUST-1201,Cardholder,Enugu,Doctor
+1202,CUST-1202,Cardholder,Federal Capital Territory,Trader
+1203,CUST-1203,Cardholder,Lagos,Trader
+1204,CUST-1204,Cardholder,Kano,Teacher
+1205,CUST-1205,Cardholder,Rivers State,Trader
+1206,CUST-1206,Cardholder,Rivers State,Student
+1207,CUST-1207,Cardholder,Lagos,Engineer
+1208,CUST-1208,Cardholder,Kano,Doctor
+1209,CUST-1209,Cardholder,Federal Capital Territory,Civil Servant
+1210,CUST-1210,Cardholder,Enugu,Doctor
+1211,CUST-1211,Cardholder,Lagos,Trader
+1212,CUST-1212,Cardholder,Kano,Civil Servant
+1213,CUST-1213,Cardholder,Kano,Civil Servant
+1214,CUST-1214,Cardholder,Federal Capital Territory,Doctor
+1215,CUST-1215,Cardholder,Federal Capital Territory,Doctor
+1216,CUST-1216,Cardholder,Federal Capital Territory,Trader
+1217,CUST-1217,Cardholder,Enugu,Trader
+1218,CUST-1218,Cardholder,Rivers State,Engineer
+1219,CUST-1219,Cardholder,Kano,Engineer
+1220,CUST-1220,Cardholder,Federal Capital Territory,Teacher
+1221,CUST-1221,Cardholder,Kano,Trader
+1222,CUST-1222,Cardholder,Federal Capital Territory,Engineer
+1223,CUST-1223,Cardholder,Kano,Teacher
+1224,CUST-1224,Cardholder,Rivers State,Trader
+1225,CUST-1225,Cardholder,Lagos,Trader
+1226,CUST-1226,Cardholder,Lagos,Student
+1227,CUST-1227,Cardholder,Rivers State,Civil Servant
+1228,CUST-1228,Cardholder,Enugu,Engineer
+1229,CUST-1229,Cardholder,Federal Capital Territory,Doctor
+1230,CUST-1230,Cardholder,Enugu,Trader
+1231,CUST-1231,Cardholder,Kano,Trader
+1232,CUST-1232,Cardholder,Enugu,Engineer
+1233,CUST-1233,Cardholder,Enugu,Engineer
+1234,CUST-1234,Cardholder,Federal Capital Territory,Teacher
+1235,CUST-1235,Cardholder,Kano,Engineer
+1236,CUST-1236,Cardholder,Kano,Student
+1237,CUST-1237,Cardholder,Enugu,Student
+1238,CUST-1238,Cardholder,Enugu,Doctor
+1239,CUST-1239,Cardholder,Rivers State,Trader
+1240,CUST-1240,Cardholder,Federal Capital Territory,Student
+1241,CUST-1241,Cardholder,Lagos,Civil Servant
+1242,CUST-1242,Cardholder,Kano,Civil Servant
+1243,CUST-1243,Cardholder,Lagos,Teacher
+1244,CUST-1244,Cardholder,Kano,Teacher
+1245,CUST-1245,Cardholder,Lagos,Doctor
+1246,CUST-1246,Cardholder,Federal Capital Territory,Trader
+1247,CUST-1247,Cardholder,Lagos,Trader
+1248,CUST-1248,Cardholder,Rivers State,Engineer
+1249,CUST-1249,Cardholder,Kano,Civil Servant
+1250,CUST-1250,Cardholder,Federal Capital Territory,Doctor
+1251,CUST-1251,Cardholder,Lagos,Civil Servant
+1252,CUST-1252,Cardholder,Kano,Teacher
+1253,CUST-1253,Cardholder,Lagos,Teacher
+1254,CUST-1254,Cardholder,Rivers State,Doctor
+1255,CUST-1255,Cardholder,Lagos,Civil Servant
+1256,CUST-1256,Cardholder,Rivers State,Trader
+1257,CUST-1257,Cardholder,Federal Capital Territory,Doctor
+1258,CUST-1258,Cardholder,Lagos,Doctor
+1259,CUST-1259,Cardholder,Rivers State,Engineer
+1260,CUST-1260,Cardholder,Lagos,Civil Servant
+1261,CUST-1261,Cardholder,Federal Capital Territory,Civil Servant
+1262,CUST-1262,Cardholder,Rivers State,Teacher
+1263,CUST-1263,Cardholder,Enugu,Trader
+1264,CUST-1264,Cardholder,Kano,Civil Servant
+1265,CUST-1265,Cardholder,Enugu,Doctor
+1266,CUST-1266,Cardholder,Rivers State,Trader
+1267,CUST-1267,Cardholder,Rivers State,Teacher
+1268,CUST-1268,Cardholder,Rivers State,Civil Servant
+1269,CUST-1269,Cardholder,Enugu,Civil Servant
+1270,CUST-1270,Cardholder,Enugu,Doctor
+1271,CUST-1271,Cardholder,Lagos,Trader
+1272,CUST-1272,Cardholder,Rivers State,Doctor
+1273,CUST-1273,Cardholder,Federal Capital Territory,Civil Servant
+1274,CUST-1274,Cardholder,Federal Capital Territory,Doctor
+1275,CUST-1275,Cardholder,Lagos,Student
+1276,CUST-1276,Cardholder,Rivers State,Civil Servant
+1277,CUST-1277,Cardholder,Enugu,Teacher
+1278,CUST-1278,Cardholder,Rivers State,Trader
+1279,CUST-1279,Cardholder,Enugu,Engineer
+1280,CUST-1280,Cardholder,Lagos,Civil Servant
+1281,CUST-1281,Cardholder,Kano,Student
+1282,CUST-1282,Cardholder,Lagos,Engineer
+1283,CUST-1283,Cardholder,Kano,Doctor
+1284,CUST-1284,Cardholder,Lagos,Doctor
+1285,CUST-1285,Cardholder,Rivers State,Doctor
+1286,CUST-1286,Cardholder,Enugu,Teacher
+1287,CUST-1287,Cardholder,Enugu,Doctor
+1288,CUST-1288,Cardholder,Kano,Engineer
+1289,CUST-1289,Cardholder,Rivers State,Trader
+1290,CUST-1290,Cardholder,Federal Capital Territory,Engineer
+1291,CUST-1291,Cardholder,Rivers State,Student
+1292,CUST-1292,Cardholder,Federal Capital Territory,Teacher
+1293,CUST-1293,Cardholder,Enugu,Trader
+1294,CUST-1294,Cardholder,Rivers State,Doctor
+1295,CUST-1295,Cardholder,Rivers State,Civil Servant
+1296,CUST-1296,Cardholder,Kano,Teacher
+1297,CUST-1297,Cardholder,Enugu,Trader
+1298,CUST-1298,Cardholder,Enugu,Doctor
+1299,CUST-1299,Cardholder,Kano,Engineer
+1300,CUST-1300,Cardholder,Kano,Engineer
+1301,CUST-1301,Cardholder,Enugu,Student
+1302,CUST-1302,Cardholder,Enugu,Civil Servant
+1303,CUST-1303,Cardholder,Kano,Civil Servant
+1304,CUST-1304,Cardholder,Kano,Doctor
+1305,CUST-1305,Cardholder,Rivers State,Student
+1306,CUST-1306,Cardholder,Enugu,Trader
+1307,CUST-1307,Cardholder,Federal Capital Territory,Trader
+1308,CUST-1308,Cardholder,Enugu,Student
+1309,CUST-1309,Cardholder,Lagos,Civil Servant
+1310,CUST-1310,Cardholder,Rivers State,Civil Servant
+1311,CUST-1311,Cardholder,Lagos,Engineer
+1312,CUST-1312,Cardholder,Lagos,Teacher
+1313,CUST-1313,Cardholder,Rivers State,Engineer
+1314,CUST-1314,Cardholder,Rivers State,Trader
+1315,CUST-1315,Cardholder,Rivers State,Doctor
+1316,CUST-1316,Cardholder,Kano,Student
+1317,CUST-1317,Cardholder,Enugu,Teacher
+1318,CUST-1318,Cardholder,Kano,Student
+1319,CUST-1319,Cardholder,Enugu,Doctor
+1320,CUST-1320,Cardholder,Federal Capital Territory,Teacher
+1321,CUST-1321,Cardholder,Enugu,Doctor
+1322,CUST-1322,Cardholder,Rivers State,Doctor
+1323,CUST-1323,Cardholder,Rivers State,Engineer
+1324,CUST-1324,Cardholder,Enugu,Student
+1325,CUST-1325,Cardholder,Rivers State,Civil Servant
+1326,CUST-1326,Cardholder,Rivers State,Trader
+1327,CUST-1327,Cardholder,Kano,Doctor
+1328,CUST-1328,Cardholder,Lagos,Doctor
+1329,CUST-1329,Cardholder,Federal Capital Territory,Student
+1330,CUST-1330,Cardholder,Rivers State,Engineer
+1331,CUST-1331,Cardholder,Enugu,Engineer
+1332,CUST-1332,Cardholder,Federal Capital Territory,Student
+1333,CUST-1333,Cardholder,Enugu,Teacher
+1334,CUST-1334,Cardholder,Federal Capital Territory,Teacher
+1335,CUST-1335,Cardholder,Kano,Civil Servant
+1336,CUST-1336,Cardholder,Kano,Civil Servant
+1337,CUST-1337,Cardholder,Lagos,Doctor
+1338,CUST-1338,Cardholder,Lagos,Civil Servant
+1339,CUST-1339,Cardholder,Kano,Trader
+1340,CUST-1340,Cardholder,Rivers State,Teacher
+1341,CUST-1341,Cardholder,Kano,Student
+1342,CUST-1342,Cardholder,Rivers State,Teacher
+1343,CUST-1343,Cardholder,Rivers State,Trader
+1344,CUST-1344,Cardholder,Rivers State,Doctor
+1345,CUST-1345,Cardholder,Lagos,Teacher
+1346,CUST-1346,Cardholder,Enugu,Engineer
+1347,CUST-1347,Cardholder,Enugu,Trader
+1348,CUST-1348,Cardholder,Federal Capital Territory,Doctor
+1349,CUST-1349,Cardholder,Rivers State,Student
+1350,CUST-1350,Cardholder,Enugu,Engineer
+1351,CUST-1351,Cardholder,Kano,Engineer
+1352,CUST-1352,Cardholder,Federal Capital Territory,Student
+1353,CUST-1353,Cardholder,Kano,Civil Servant
+1354,CUST-1354,Cardholder,Enugu,Civil Servant
+1355,CUST-1355,Cardholder,Enugu,Teacher
+1356,CUST-1356,Cardholder,Lagos,Trader
+1357,CUST-1357,Cardholder,Enugu,Engineer
+1358,CUST-1358,Cardholder,Kano,Doctor
+1359,CUST-1359,Cardholder,Enugu,Civil Servant
+1360,CUST-1360,Cardholder,Federal Capital Territory,Student
+1361,CUST-1361,Cardholder,Kano,Civil Servant
+1362,CUST-1362,Cardholder,Lagos,Student
+1363,CUST-1363,Cardholder,Enugu,Engineer
+1364,CUST-1364,Cardholder,Rivers State,Doctor
+1365,CUST-1365,Cardholder,Enugu,Trader
+1366,CUST-1366,Cardholder,Lagos,Student
+1367,CUST-1367,Cardholder,Rivers State,Doctor
+1368,CUST-1368,Cardholder,Rivers State,Engineer
+1369,CUST-1369,Cardholder,Enugu,Civil Servant
+1370,CUST-1370,Cardholder,Kano,Engineer
+1371,CUST-1371,Cardholder,Rivers State,Teacher
+1372,CUST-1372,Cardholder,Federal Capital Territory,Engineer
+1373,CUST-1373,Cardholder,Federal Capital Territory,Student
+1374,CUST-1374,Cardholder,Kano,Trader
+1375,CUST-1375,Cardholder,Kano,Trader
+1376,CUST-1376,Cardholder,Kano,Student
+1377,CUST-1377,Cardholder,Rivers State,Engineer
+1378,CUST-1378,Cardholder,Lagos,Engineer
+1379,CUST-1379,Cardholder,Rivers State,Student
+1380,CUST-1380,Cardholder,Rivers State,Teacher
+1381,CUST-1381,Cardholder,Rivers State,Teacher
+1382,CUST-1382,Cardholder,Enugu,Civil Servant
+1383,CUST-1383,Cardholder,Lagos,Doctor
+1384,CUST-1384,Cardholder,Rivers State,Doctor
+1385,CUST-1385,Cardholder,Federal Capital Territory,Student
+1386,CUST-1386,Cardholder,Lagos,Doctor
+1387,CUST-1387,Cardholder,Lagos,Doctor
+1388,CUST-1388,Cardholder,Enugu,Civil Servant
+1389,CUST-1389,Cardholder,Lagos,Civil Servant
+1390,CUST-1390,Cardholder,Enugu,Engineer
+1391,CUST-1391,Cardholder,Rivers State,Engineer
+1392,CUST-1392,Cardholder,Kano,Student
+1393,CUST-1393,Cardholder,Federal Capital Territory,Doctor
+1394,CUST-1394,Cardholder,Federal Capital Territory,Doctor
+1395,CUST-1395,Cardholder,Federal Capital Territory,Engineer
+1396,CUST-1396,Cardholder,Lagos,Doctor
+1397,CUST-1397,Cardholder,Enugu,Doctor
+1398,CUST-1398,Cardholder,Rivers State,Doctor
+1399,CUST-1399,Cardholder,Enugu,Trader
+1400,CUST-1400,Cardholder,Enugu,Civil Servant
+1401,CUST-1401,Cardholder,Rivers State,Teacher
+1402,CUST-1402,Cardholder,Enugu,Engineer
+1403,CUST-1403,Cardholder,Lagos,Doctor
+1404,CUST-1404,Cardholder,Lagos,Teacher
+1405,CUST-1405,Cardholder,Federal Capital Territory,Student
+1406,CUST-1406,Cardholder,Federal Capital Territory,Civil Servant
+1407,CUST-1407,Cardholder,Lagos,Trader
+1408,CUST-1408,Cardholder,Enugu,Trader
+1409,CUST-1409,Cardholder,Federal Capital Territory,Trader
+1410,CUST-1410,Cardholder,Lagos,Teacher
+1411,CUST-1411,Cardholder,Enugu,Engineer
+1412,CUST-1412,Cardholder,Rivers State,Engineer
+1413,CUST-1413,Cardholder,Rivers State,Doctor
+1414,CUST-1414,Cardholder,Federal Capital Territory,Student
+1415,CUST-1415,Cardholder,Rivers State,Teacher
+1416,CUST-1416,Cardholder,Rivers State,Trader
+1417,CUST-1417,Cardholder,Rivers State,Teacher
+1418,CUST-1418,Cardholder,Kano,Engineer
+1419,CUST-1419,Cardholder,Kano,Engineer
+1420,CUST-1420,Cardholder,Federal Capital Territory,Doctor
+1421,CUST-1421,Cardholder,Enugu,Trader
+1422,CUST-1422,Cardholder,Kano,Trader
+1423,CUST-1423,Cardholder,Rivers State,Engineer
+1424,CUST-1424,Cardholder,Kano,Student
+1425,CUST-1425,Cardholder,Lagos,Trader
+1426,CUST-1426,Cardholder,Enugu,Doctor
+1427,CUST-1427,Cardholder,Federal Capital Territory,Doctor
+1428,CUST-1428,Cardholder,Rivers State,Student
+1429,CUST-1429,Cardholder,Lagos,Doctor
+1430,CUST-1430,Cardholder,Lagos,Civil Servant
+1431,CUST-1431,Cardholder,Federal Capital Territory,Student
+1432,CUST-1432,Cardholder,Rivers State,Teacher
+1433,CUST-1433,Cardholder,Enugu,Engineer
+1434,CUST-1434,Cardholder,Kano,Teacher
+1435,CUST-1435,Cardholder,Kano,Trader
+1436,CUST-1436,Cardholder,Rivers State,Engineer
+1437,CUST-1437,Cardholder,Enugu,Teacher
+1438,CUST-1438,Cardholder,Kano,Student
+1439,CUST-1439,Cardholder,Kano,Engineer
+1440,CUST-1440,Cardholder,Enugu,Doctor
+1441,CUST-1441,Cardholder,Lagos,Engineer
+1442,CUST-1442,Cardholder,Rivers State,Student
+1443,CUST-1443,Cardholder,Enugu,Trader
+1444,CUST-1444,Cardholder,Lagos,Engineer
+1445,CUST-1445,Cardholder,Rivers State,Student
+1446,CUST-1446,Cardholder,Enugu,Engineer
+1447,CUST-1447,Cardholder,Enugu,Teacher
+1448,CUST-1448,Cardholder,Enugu,Student
+1449,CUST-1449,Cardholder,Lagos,Trader
+1450,CUST-1450,Cardholder,Rivers State,Trader
+1451,CUST-1451,Cardholder,Kano,Student
+1452,CUST-1452,Cardholder,Lagos,Trader
+1453,CUST-1453,Cardholder,Rivers State,Teacher
+1454,CUST-1454,Cardholder,Lagos,Trader
+1455,CUST-1455,Cardholder,Kano,Student
+1456,CUST-1456,Cardholder,Kano,Teacher
+1457,CUST-1457,Cardholder,Enugu,Student
+1458,CUST-1458,Cardholder,Federal Capital Territory,Civil Servant
+1459,CUST-1459,Cardholder,Federal Capital Territory,Civil Servant
+1460,CUST-1460,Cardholder,Rivers State,Doctor
+1461,CUST-1461,Cardholder,Lagos,Doctor
+1462,CUST-1462,Cardholder,Rivers State,Student
+1463,CUST-1463,Cardholder,Lagos,Student
+1464,CUST-1464,Cardholder,Lagos,Doctor
+1465,CUST-1465,Cardholder,Enugu,Engineer
+1466,CUST-1466,Cardholder,Rivers State,Engineer
+1467,CUST-1467,Cardholder,Lagos,Doctor
+1468,CUST-1468,Cardholder,Federal Capital Territory,Doctor
+1469,CUST-1469,Cardholder,Federal Capital Territory,Trader
+1470,CUST-1470,Cardholder,Federal Capital Territory,Student
+1471,CUST-1471,Cardholder,Kano,Doctor
+1472,CUST-1472,Cardholder,Lagos,Civil Servant
+1473,CUST-1473,Cardholder,Lagos,Engineer
+1474,CUST-1474,Cardholder,Kano,Doctor
+1475,CUST-1475,Cardholder,Federal Capital Territory,Trader
+1476,CUST-1476,Cardholder,Rivers State,Doctor
+1477,CUST-1477,Cardholder,Enugu,Civil Servant
+1478,CUST-1478,Cardholder,Federal Capital Territory,Civil Servant
+1479,CUST-1479,Cardholder,Rivers State,Trader
+1480,CUST-1480,Cardholder,Lagos,Trader
+1481,CUST-1481,Cardholder,Rivers State,Trader
+1482,CUST-1482,Cardholder,Lagos,Trader
+1483,CUST-1483,Cardholder,Rivers State,Teacher
+1484,CUST-1484,Cardholder,Federal Capital Territory,Trader
+1485,CUST-1485,Cardholder,Federal Capital Territory,Civil Servant
+1486,CUST-1486,Cardholder,Rivers State,Civil Servant
+1487,CUST-1487,Cardholder,Federal Capital Territory,Civil Servant
+1488,CUST-1488,Cardholder,Enugu,Engineer
+1489,CUST-1489,Cardholder,Rivers State,Teacher
+1490,CUST-1490,Cardholder,Kano,Doctor
+1491,CUST-1491,Cardholder,Kano,Teacher
+1492,CUST-1492,Cardholder,Kano,Trader
+1493,CUST-1493,Cardholder,Lagos,Civil Servant
+1494,CUST-1494,Cardholder,Rivers State,Student
+1495,CUST-1495,Cardholder,Enugu,Teacher
+1496,CUST-1496,Cardholder,Kano,Civil Servant
+1497,CUST-1497,Cardholder,Enugu,Doctor
+1498,CUST-1498,Cardholder,Rivers State,Doctor
+1499,CUST-1499,Cardholder,Federal Capital Territory,Civil Servant
+1500,CUST-1500,Cardholder,Enugu,Student
+1501,CUST-1501,Cardholder,Kano,Doctor
+1502,CUST-1502,Cardholder,Kano,Civil Servant
+1503,CUST-1503,Cardholder,Federal Capital Territory,Doctor
+1504,CUST-1504,Cardholder,Rivers State,Student
+1505,CUST-1505,Cardholder,Federal Capital Territory,Teacher
+1506,CUST-1506,Cardholder,Kano,Trader
+1507,CUST-1507,Cardholder,Lagos,Trader
+1508,CUST-1508,Cardholder,Federal Capital Territory,Civil Servant
+1509,CUST-1509,Cardholder,Federal Capital Territory,Trader
+1510,CUST-1510,Cardholder,Lagos,Trader
+1511,CUST-1511,Cardholder,Enugu,Doctor
+1512,CUST-1512,Cardholder,Lagos,Doctor
+1513,CUST-1513,Cardholder,Rivers State,Doctor
+1514,CUST-1514,Cardholder,Lagos,Student
+1515,CUST-1515,Cardholder,Rivers State,Doctor
+1516,CUST-1516,Cardholder,Lagos,Teacher
+1517,CUST-1517,Cardholder,Lagos,Engineer
+1518,CUST-1518,Cardholder,Rivers State,Teacher
+1519,CUST-1519,Cardholder,Lagos,Doctor
+1520,CUST-1520,Cardholder,Kano,Doctor
+1521,CUST-1521,Cardholder,Federal Capital Territory,Engineer
+1522,CUST-1522,Cardholder,Lagos,Teacher
+1523,CUST-1523,Cardholder,Kano,Engineer
+1524,CUST-1524,Cardholder,Rivers State,Trader
+1525,CUST-1525,Cardholder,Lagos,Teacher
+1526,CUST-1526,Cardholder,Enugu,Engineer
+1527,CUST-1527,Cardholder,Lagos,Student
+1528,CUST-1528,Cardholder,Federal Capital Territory,Civil Servant
+1529,CUST-1529,Cardholder,Federal Capital Territory,Civil Servant
+1530,CUST-1530,Cardholder,Kano,Doctor
+1531,CUST-1531,Cardholder,Lagos,Teacher
+1532,CUST-1532,Cardholder,Federal Capital Territory,Teacher
+1533,CUST-1533,Cardholder,Lagos,Engineer
+1534,CUST-1534,Cardholder,Federal Capital Territory,Doctor
+1535,CUST-1535,Cardholder,Enugu,Civil Servant
+1536,CUST-1536,Cardholder,Enugu,Trader
+1537,CUST-1537,Cardholder,Lagos,Engineer
+1538,CUST-1538,Cardholder,Rivers State,Civil Servant
+1539,CUST-1539,Cardholder,Lagos,Teacher
+1540,CUST-1540,Cardholder,Lagos,Student
+1541,CUST-1541,Cardholder,Rivers State,Civil Servant
+1542,CUST-1542,Cardholder,Enugu,Civil Servant
+1543,CUST-1543,Cardholder,Kano,Engineer
+1544,CUST-1544,Cardholder,Enugu,Trader
+1545,CUST-1545,Cardholder,Kano,Teacher
+1546,CUST-1546,Cardholder,Lagos,Trader
+1547,CUST-1547,Cardholder,Federal Capital Territory,Student
+1548,CUST-1548,Cardholder,Enugu,Engineer
+1549,CUST-1549,Cardholder,Kano,Trader
+1550,CUST-1550,Cardholder,Lagos,Trader
+1551,CUST-1551,Cardholder,Lagos,Doctor
+1552,CUST-1552,Cardholder,Enugu,Doctor
+1553,CUST-1553,Cardholder,Rivers State,Doctor
+1554,CUST-1554,Cardholder,Enugu,Student
+1555,CUST-1555,Cardholder,Rivers State,Civil Servant
+1556,CUST-1556,Cardholder,Enugu,Doctor
+1557,CUST-1557,Cardholder,Federal Capital Territory,Student
+1558,CUST-1558,Cardholder,Rivers State,Engineer
+1559,CUST-1559,Cardholder,Lagos,Civil Servant
+1560,CUST-1560,Cardholder,Rivers State,Doctor
+1561,CUST-1561,Cardholder,Federal Capital Territory,Teacher
+1562,CUST-1562,Cardholder,Enugu,Doctor
+1563,CUST-1563,Cardholder,Lagos,Student
+1564,CUST-1564,Cardholder,Enugu,Civil Servant
+1565,CUST-1565,Cardholder,Lagos,Civil Servant
+1566,CUST-1566,Cardholder,Enugu,Student
+1567,CUST-1567,Cardholder,Kano,Teacher
+1568,CUST-1568,Cardholder,Federal Capital Territory,Engineer
+1569,CUST-1569,Cardholder,Kano,Teacher
+1570,CUST-1570,Cardholder,Rivers State,Doctor
+1571,CUST-1571,Cardholder,Federal Capital Territory,Student
+1572,CUST-1572,Cardholder,Kano,Trader
+1573,CUST-1573,Cardholder,Rivers State,Engineer
+1574,CUST-1574,Cardholder,Federal Capital Territory,Student
+1575,CUST-1575,Cardholder,Rivers State,Trader
+1576,CUST-1576,Cardholder,Rivers State,Engineer
+1577,CUST-1577,Cardholder,Lagos,Doctor
+1578,CUST-1578,Cardholder,Federal Capital Territory,Student
+1579,CUST-1579,Cardholder,Lagos,Trader
+1580,CUST-1580,Cardholder,Enugu,Student
+1581,CUST-1581,Cardholder,Rivers State,Teacher
+1582,CUST-1582,Cardholder,Lagos,Engineer
+1583,CUST-1583,Cardholder,Enugu,Civil Servant
+1584,CUST-1584,Cardholder,Enugu,Civil Servant
+1585,CUST-1585,Cardholder,Rivers State,Civil Servant
+1586,CUST-1586,Cardholder,Lagos,Trader
+1587,CUST-1587,Cardholder,Kano,Trader
+1588,CUST-1588,Cardholder,Federal Capital Territory,Engineer
+1589,CUST-1589,Cardholder,Kano,Teacher
+1590,CUST-1590,Cardholder,Enugu,Trader
+1591,CUST-1591,Cardholder,Federal Capital Territory,Doctor
+1592,CUST-1592,Cardholder,Federal Capital Territory,Student
+1593,CUST-1593,Cardholder,Lagos,Trader
+1594,CUST-1594,Cardholder,Enugu,Student
+1595,CUST-1595,Cardholder,Enugu,Student
+1596,CUST-1596,Cardholder,Lagos,Trader
+1597,CUST-1597,Cardholder,Lagos,Doctor
+1598,CUST-1598,Cardholder,Federal Capital Territory,Teacher
+1599,CUST-1599,Cardholder,Federal Capital Territory,Teacher
+1600,CUST-1600,Cardholder,Enugu,Engineer
+1601,CUST-1601,Cardholder,Federal Capital Territory,Trader
+1602,CUST-1602,Cardholder,Kano,Trader
+1603,CUST-1603,Cardholder,Kano,Student
+1604,CUST-1604,Cardholder,Rivers State,Trader
+1605,CUST-1605,Cardholder,Kano,Teacher
+1606,CUST-1606,Cardholder,Rivers State,Student
+1607,CUST-1607,Cardholder,Kano,Teacher
+1608,CUST-1608,Cardholder,Federal Capital Territory,Student
+1609,CUST-1609,Cardholder,Lagos,Engineer
+1610,CUST-1610,Cardholder,Lagos,Civil Servant
+1611,CUST-1611,Cardholder,Kano,Student
+1612,CUST-1612,Cardholder,Lagos,Civil Servant
+1613,CUST-1613,Cardholder,Federal Capital Territory,Civil Servant
+1614,CUST-1614,Cardholder,Rivers State,Teacher
+1615,CUST-1615,Cardholder,Enugu,Doctor
+1616,CUST-1616,Cardholder,Lagos,Teacher
+1617,CUST-1617,Cardholder,Enugu,Doctor
+1618,CUST-1618,Cardholder,Enugu,Trader
+1619,CUST-1619,Cardholder,Federal Capital Territory,Trader
+1620,CUST-1620,Cardholder,Rivers State,Doctor
+1621,CUST-1621,Cardholder,Kano,Student
+1622,CUST-1622,Cardholder,Federal Capital Territory,Trader
+1623,CUST-1623,Cardholder,Kano,Engineer
+1624,CUST-1624,Cardholder,Rivers State,Teacher
+1625,CUST-1625,Cardholder,Kano,Engineer
+1626,CUST-1626,Cardholder,Rivers State,Student
+1627,CUST-1627,Cardholder,Enugu,Teacher
+1628,CUST-1628,Cardholder,Rivers State,Teacher
+1629,CUST-1629,Cardholder,Kano,Student
+1630,CUST-1630,Cardholder,Enugu,Trader
+1631,CUST-1631,Cardholder,Enugu,Engineer
+1632,CUST-1632,Cardholder,Enugu,Teacher
+1633,CUST-1633,Cardholder,Kano,Engineer
+1634,CUST-1634,Cardholder,Lagos,Doctor
+1635,CUST-1635,Cardholder,Federal Capital Territory,Trader
+1636,CUST-1636,Cardholder,Federal Capital Territory,Engineer
+1637,CUST-1637,Cardholder,Enugu,Trader
+1638,CUST-1638,Cardholder,Rivers State,Trader
+1639,CUST-1639,Cardholder,Lagos,Engineer
+1640,CUST-1640,Cardholder,Federal Capital Territory,Trader
+1641,CUST-1641,Cardholder,Federal Capital Territory,Engineer
+1642,CUST-1642,Cardholder,Enugu,Student
+1643,CUST-1643,Cardholder,Rivers State,Teacher
+1644,CUST-1644,Cardholder,Lagos,Trader
+1645,CUST-1645,Cardholder,Rivers State,Teacher
+1646,CUST-1646,Cardholder,Kano,Student
+1647,CUST-1647,Cardholder,Lagos,Engineer
+1648,CUST-1648,Cardholder,Kano,Doctor
+1649,CUST-1649,Cardholder,Federal Capital Territory,Teacher
+1650,CUST-1650,Cardholder,Federal Capital Territory,Trader
+1651,CUST-1651,Cardholder,Federal Capital Territory,Teacher
+1652,CUST-1652,Cardholder,Enugu,Student
+1653,CUST-1653,Cardholder,Rivers State,Civil Servant
+1654,CUST-1654,Cardholder,Federal Capital Territory,Doctor
+1655,CUST-1655,Cardholder,Lagos,Trader
+1656,CUST-1656,Cardholder,Lagos,Student
+1657,CUST-1657,Cardholder,Rivers State,Student
+1658,CUST-1658,Cardholder,Enugu,Civil Servant
+1659,CUST-1659,Cardholder,Federal Capital Territory,Civil Servant
+1660,CUST-1660,Cardholder,Lagos,Teacher
+1661,CUST-1661,Cardholder,Federal Capital Territory,Teacher
+1662,CUST-1662,Cardholder,Kano,Student
+1663,CUST-1663,Cardholder,Lagos,Engineer
+1664,CUST-1664,Cardholder,Enugu,Doctor
+1665,CUST-1665,Cardholder,Kano,Civil Servant
+1666,CUST-1666,Cardholder,Kano,Student
+1667,CUST-1667,Cardholder,Federal Capital Territory,Civil Servant
+1668,CUST-1668,Cardholder,Lagos,Student
+1669,CUST-1669,Cardholder,Kano,Civil Servant
+1670,CUST-1670,Cardholder,Enugu,Trader
+1671,CUST-1671,Cardholder,Kano,Student
+1672,CUST-1672,Cardholder,Rivers State,Civil Servant
+1673,CUST-1673,Cardholder,Rivers State,Teacher
+1674,CUST-1674,Cardholder,Kano,Student
+1675,CUST-1675,Cardholder,Rivers State,Trader
+1676,CUST-1676,Cardholder,Rivers State,Civil Servant
+1677,CUST-1677,Cardholder,Enugu,Doctor
+1678,CUST-1678,Cardholder,Rivers State,Trader
+1679,CUST-1679,Cardholder,Lagos,Doctor
+1680,CUST-1680,Cardholder,Rivers State,Trader
+1681,CUST-1681,Cardholder,Lagos,Civil Servant
+1682,CUST-1682,Cardholder,Lagos,Doctor
+1683,CUST-1683,Cardholder,Rivers State,Teacher
+1684,CUST-1684,Cardholder,Kano,Student
+1685,CUST-1685,Cardholder,Rivers State,Engineer
+1686,CUST-1686,Cardholder,Federal Capital Territory,Teacher
+1687,CUST-1687,Cardholder,Lagos,Civil Servant
+1688,CUST-1688,Cardholder,Kano,Engineer
+1689,CUST-1689,Cardholder,Enugu,Civil Servant
+1690,CUST-1690,Cardholder,Enugu,Civil Servant
+1691,CUST-1691,Cardholder,Kano,Student
+1692,CUST-1692,Cardholder,Kano,Civil Servant
+1693,CUST-1693,Cardholder,Enugu,Civil Servant
+1694,CUST-1694,Cardholder,Kano,Trader
+1695,CUST-1695,Cardholder,Rivers State,Engineer
+1696,CUST-1696,Cardholder,Federal Capital Territory,Student
+1697,CUST-1697,Cardholder,Lagos,Doctor
+1698,CUST-1698,Cardholder,Kano,Doctor
+1699,CUST-1699,Cardholder,Enugu,Civil Servant
+1700,CUST-1700,Cardholder,Rivers State,Engineer
+1701,CUST-1701,Cardholder,Rivers State,Trader
+1702,CUST-1702,Cardholder,Rivers State,Civil Servant
+1703,CUST-1703,Cardholder,Federal Capital Territory,Teacher
+1704,CUST-1704,Cardholder,Federal Capital Territory,Trader
+1705,CUST-1705,Cardholder,Kano,Trader
+1706,CUST-1706,Cardholder,Kano,Civil Servant
+1707,CUST-1707,Cardholder,Rivers State,Engineer
+1708,CUST-1708,Cardholder,Rivers State,Student
+1709,CUST-1709,Cardholder,Kano,Student
+1710,CUST-1710,Cardholder,Enugu,Student
+1711,CUST-1711,Cardholder,Rivers State,Doctor
+1712,CUST-1712,Cardholder,Lagos,Teacher
+1713,CUST-1713,Cardholder,Enugu,Teacher
+1714,CUST-1714,Cardholder,Lagos,Doctor
+1715,CUST-1715,Cardholder,Kano,Trader
+1716,CUST-1716,Cardholder,Rivers State,Student
+1717,CUST-1717,Cardholder,Federal Capital Territory,Trader
+1718,CUST-1718,Cardholder,Rivers State,Engineer
+1719,CUST-1719,Cardholder,Lagos,Trader
+1720,CUST-1720,Cardholder,Kano,Civil Servant
+1721,CUST-1721,Cardholder,Federal Capital Territory,Civil Servant
+1722,CUST-1722,Cardholder,Lagos,Trader
+1723,CUST-1723,Cardholder,Federal Capital Territory,Teacher
+1724,CUST-1724,Cardholder,Kano,Teacher
+1725,CUST-1725,Cardholder,Enugu,Doctor
+1726,CUST-1726,Cardholder,Federal Capital Territory,Student
+1727,CUST-1727,Cardholder,Kano,Civil Servant
+1728,CUST-1728,Cardholder,Federal Capital Territory,Student
+1729,CUST-1729,Cardholder,Enugu,Engineer
+1730,CUST-1730,Cardholder,Federal Capital Territory,Engineer
+1731,CUST-1731,Cardholder,Federal Capital Territory,Student
+1732,CUST-1732,Cardholder,Federal Capital Territory,Teacher
+1733,CUST-1733,Cardholder,Rivers State,Engineer
+1734,CUST-1734,Cardholder,Kano,Engineer
+1735,CUST-1735,Cardholder,Federal Capital Territory,Engineer
+1736,CUST-1736,Cardholder,Enugu,Student
+1737,CUST-1737,Cardholder,Enugu,Student
+1738,CUST-1738,Cardholder,Lagos,Civil Servant
+1739,CUST-1739,Cardholder,Rivers State,Doctor
+1740,CUST-1740,Cardholder,Rivers State,Civil Servant
+1741,CUST-1741,Cardholder,Kano,Engineer
+1742,CUST-1742,Cardholder,Enugu,Civil Servant
+1743,CUST-1743,Cardholder,Lagos,Engineer
+1744,CUST-1744,Cardholder,Enugu,Trader
+1745,CUST-1745,Cardholder,Enugu,Teacher
+1746,CUST-1746,Cardholder,Enugu,Doctor
+1747,CUST-1747,Cardholder,Enugu,Doctor
+1748,CUST-1748,Cardholder,Lagos,Civil Servant
+1749,CUST-1749,Cardholder,Rivers State,Teacher
+1750,CUST-1750,Cardholder,Federal Capital Territory,Student
+1751,CUST-1751,Cardholder,Kano,Engineer
+1752,CUST-1752,Cardholder,Lagos,Doctor
+1753,CUST-1753,Cardholder,Federal Capital Territory,Student
+1754,CUST-1754,Cardholder,Enugu,Teacher
+1755,CUST-1755,Cardholder,Enugu,Teacher
+1756,CUST-1756,Cardholder,Rivers State,Civil Servant
+1757,CUST-1757,Cardholder,Lagos,Civil Servant
+1758,CUST-1758,Cardholder,Enugu,Teacher
+1759,CUST-1759,Cardholder,Kano,Engineer
+1760,CUST-1760,Cardholder,Federal Capital Territory,Doctor
+1761,CUST-1761,Cardholder,Federal Capital Territory,Teacher
+1762,CUST-1762,Cardholder,Lagos,Doctor
+1763,CUST-1763,Cardholder,Kano,Engineer
+1764,CUST-1764,Cardholder,Kano,Teacher
+1765,CUST-1765,Cardholder,Federal Capital Territory,Student
+1766,CUST-1766,Cardholder,Federal Capital Territory,Teacher
+1767,CUST-1767,Cardholder,Rivers State,Civil Servant
+1768,CUST-1768,Cardholder,Federal Capital Territory,Doctor
+1769,CUST-1769,Cardholder,Rivers State,Engineer
+1770,CUST-1770,Cardholder,Federal Capital Territory,Civil Servant
+1771,CUST-1771,Cardholder,Enugu,Engineer
+1772,CUST-1772,Cardholder,Rivers State,Student
+1773,CUST-1773,Cardholder,Rivers State,Doctor
+1774,CUST-1774,Cardholder,Kano,Doctor
+1775,CUST-1775,Cardholder,Kano,Teacher
+1776,CUST-1776,Cardholder,Kano,Civil Servant
+1777,CUST-1777,Cardholder,Kano,Engineer
+1778,CUST-1778,Cardholder,Federal Capital Territory,Doctor
+1779,CUST-1779,Cardholder,Federal Capital Territory,Doctor
+1780,CUST-1780,Cardholder,Kano,Teacher
+1781,CUST-1781,Cardholder,Rivers State,Doctor
+1782,CUST-1782,Cardholder,Rivers State,Student
+1783,CUST-1783,Cardholder,Kano,Trader
+1784,CUST-1784,Cardholder,Enugu,Engineer
+1785,CUST-1785,Cardholder,Kano,Doctor
+1786,CUST-1786,Cardholder,Kano,Trader
+1787,CUST-1787,Cardholder,Lagos,Teacher
+1788,CUST-1788,Cardholder,Lagos,Teacher
+1789,CUST-1789,Cardholder,Federal Capital Territory,Doctor
+1790,CUST-1790,Cardholder,Kano,Trader
+1791,CUST-1791,Cardholder,Enugu,Student
+1792,CUST-1792,Cardholder,Rivers State,Trader
+1793,CUST-1793,Cardholder,Rivers State,Doctor
+1794,CUST-1794,Cardholder,Lagos,Trader
+1795,CUST-1795,Cardholder,Kano,Trader
+1796,CUST-1796,Cardholder,Enugu,Student
+1797,CUST-1797,Cardholder,Kano,Engineer
+1798,CUST-1798,Cardholder,Rivers State,Trader
+1799,CUST-1799,Cardholder,Kano,Trader
+1800,CUST-1800,Cardholder,Kano,Student
+1801,CUST-1801,Cardholder,Kano,Student
+1802,CUST-1802,Cardholder,Rivers State,Doctor
+1803,CUST-1803,Cardholder,Enugu,Teacher
+1804,CUST-1804,Cardholder,Rivers State,Teacher
+1805,CUST-1805,Cardholder,Federal Capital Territory,Teacher
+1806,CUST-1806,Cardholder,Federal Capital Territory,Student
+1807,CUST-1807,Cardholder,Lagos,Civil Servant
+1808,CUST-1808,Cardholder,Lagos,Doctor
+1809,CUST-1809,Cardholder,Kano,Engineer
+1810,CUST-1810,Cardholder,Kano,Teacher
+1811,CUST-1811,Cardholder,Federal Capital Territory,Trader
+1812,CUST-1812,Cardholder,Lagos,Civil Servant
+1813,CUST-1813,Cardholder,Enugu,Engineer
+1814,CUST-1814,Cardholder,Federal Capital Territory,Engineer
+1815,CUST-1815,Cardholder,Lagos,Student
+1816,CUST-1816,Cardholder,Rivers State,Student
+1817,CUST-1817,Cardholder,Enugu,Engineer
+1818,CUST-1818,Cardholder,Lagos,Teacher
+1819,CUST-1819,Cardholder,Kano,Trader
+1820,CUST-1820,Cardholder,Rivers State,Engineer
+1821,CUST-1821,Cardholder,Rivers State,Doctor
+1822,CUST-1822,Cardholder,Federal Capital Territory,Civil Servant
+1823,CUST-1823,Cardholder,Kano,Civil Servant
+1824,CUST-1824,Cardholder,Lagos,Engineer
+1825,CUST-1825,Cardholder,Enugu,Doctor
+1826,CUST-1826,Cardholder,Federal Capital Territory,Engineer
+1827,CUST-1827,Cardholder,Lagos,Engineer
+1828,CUST-1828,Cardholder,Enugu,Civil Servant
+1829,CUST-1829,Cardholder,Rivers State,Student
+1830,CUST-1830,Cardholder,Lagos,Teacher
+1831,CUST-1831,Cardholder,Federal Capital Territory,Trader
+1832,CUST-1832,Cardholder,Lagos,Civil Servant
+1833,CUST-1833,Cardholder,Rivers State,Teacher
+1834,CUST-1834,Cardholder,Rivers State,Teacher
+1835,CUST-1835,Cardholder,Federal Capital Territory,Civil Servant
+1836,CUST-1836,Cardholder,Enugu,Trader
+1837,CUST-1837,Cardholder,Kano,Student
+1838,CUST-1838,Cardholder,Enugu,Doctor
+1839,CUST-1839,Cardholder,Kano,Student
+1840,CUST-1840,Cardholder,Rivers State,Engineer
+1841,CUST-1841,Cardholder,Enugu,Engineer
+1842,CUST-1842,Cardholder,Rivers State,Trader
+1843,CUST-1843,Cardholder,Lagos,Doctor
+1844,CUST-1844,Cardholder,Enugu,Trader
+1845,CUST-1845,Cardholder,Federal Capital Territory,Doctor
+1846,CUST-1846,Cardholder,Kano,Engineer
+1847,CUST-1847,Cardholder,Federal Capital Territory,Teacher
+1848,CUST-1848,Cardholder,Lagos,Trader
+1849,CUST-1849,Cardholder,Kano,Civil Servant
+1850,CUST-1850,Cardholder,Kano,Trader
+1851,CUST-1851,Cardholder,Rivers State,Engineer
+1852,CUST-1852,Cardholder,Lagos,Doctor
+1853,CUST-1853,Cardholder,Rivers State,Engineer
+1854,CUST-1854,Cardholder,Kano,Teacher
+1855,CUST-1855,Cardholder,Enugu,Student
+1856,CUST-1856,Cardholder,Federal Capital Territory,Engineer
+1857,CUST-1857,Cardholder,Lagos,Trader
+1858,CUST-1858,Cardholder,Federal Capital Territory,Student
+1859,CUST-1859,Cardholder,Federal Capital Territory,Doctor
+1860,CUST-1860,Cardholder,Lagos,Doctor
+1861,CUST-1861,Cardholder,Enugu,Civil Servant
+1862,CUST-1862,Cardholder,Federal Capital Territory,Student
+1863,CUST-1863,Cardholder,Federal Capital Territory,Civil Servant
+1864,CUST-1864,Cardholder,Enugu,Teacher
+1865,CUST-1865,Cardholder,Rivers State,Trader
+1866,CUST-1866,Cardholder,Enugu,Engineer
+1867,CUST-1867,Cardholder,Kano,Trader
+1868,CUST-1868,Cardholder,Enugu,Doctor
+1869,CUST-1869,Cardholder,Lagos,Trader
+1870,CUST-1870,Cardholder,Kano,Student
+1871,CUST-1871,Cardholder,Federal Capital Territory,Doctor
+1872,CUST-1872,Cardholder,Lagos,Trader
+1873,CUST-1873,Cardholder,Lagos,Trader
+1874,CUST-1874,Cardholder,Federal Capital Territory,Trader
+1875,CUST-1875,Cardholder,Enugu,Doctor
+1876,CUST-1876,Cardholder,Federal Capital Territory,Trader
+1877,CUST-1877,Cardholder,Rivers State,Doctor
+1878,CUST-1878,Cardholder,Rivers State,Doctor
+1879,CUST-1879,Cardholder,Rivers State,Civil Servant
+1880,CUST-1880,Cardholder,Enugu,Trader
+1881,CUST-1881,Cardholder,Enugu,Doctor
+1882,CUST-1882,Cardholder,Rivers State,Student
+1883,CUST-1883,Cardholder,Kano,Civil Servant
+1884,CUST-1884,Cardholder,Federal Capital Territory,Civil Servant
+1885,CUST-1885,Cardholder,Enugu,Doctor
+1886,CUST-1886,Cardholder,Rivers State,Doctor
+1887,CUST-1887,Cardholder,Enugu,Civil Servant
+1888,CUST-1888,Cardholder,Rivers State,Trader
+1889,CUST-1889,Cardholder,Kano,Doctor
+1890,CUST-1890,Cardholder,Lagos,Student
+1891,CUST-1891,Cardholder,Enugu,Student
+1892,CUST-1892,Cardholder,Federal Capital Territory,Student
+1893,CUST-1893,Cardholder,Lagos,Civil Servant
+1894,CUST-1894,Cardholder,Federal Capital Territory,Engineer
+1895,CUST-1895,Cardholder,Kano,Teacher
+1896,CUST-1896,Cardholder,Federal Capital Territory,Student
+1897,CUST-1897,Cardholder,Enugu,Doctor
+1898,CUST-1898,Cardholder,Lagos,Engineer
+1899,CUST-1899,Cardholder,Rivers State,Student
+1900,CUST-1900,Cardholder,Federal Capital Territory,Doctor
+1901,CUST-1901,Cardholder,Rivers State,Doctor
+1902,CUST-1902,Cardholder,Federal Capital Territory,Trader
+1903,CUST-1903,Cardholder,Lagos,Engineer
+1904,CUST-1904,Cardholder,Rivers State,Engineer
+1905,CUST-1905,Cardholder,Lagos,Trader
+1906,CUST-1906,Cardholder,Rivers State,Doctor
+1907,CUST-1907,Cardholder,Kano,Trader
+1908,CUST-1908,Cardholder,Enugu,Doctor
+1909,CUST-1909,Cardholder,Enugu,Engineer
+1910,CUST-1910,Cardholder,Rivers State,Civil Servant
+1911,CUST-1911,Cardholder,Lagos,Trader
+1912,CUST-1912,Cardholder,Lagos,Civil Servant
+1913,CUST-1913,Cardholder,Kano,Student
+1914,CUST-1914,Cardholder,Kano,Student
+1915,CUST-1915,Cardholder,Enugu,Teacher
+1916,CUST-1916,Cardholder,Enugu,Teacher
+1917,CUST-1917,Cardholder,Enugu,Engineer
+1918,CUST-1918,Cardholder,Federal Capital Territory,Doctor
+1919,CUST-1919,Cardholder,Federal Capital Territory,Doctor
+1920,CUST-1920,Cardholder,Lagos,Teacher
+1921,CUST-1921,Cardholder,Rivers State,Student
+1922,CUST-1922,Cardholder,Lagos,Trader
+1923,CUST-1923,Cardholder,Rivers State,Doctor
+1924,CUST-1924,Cardholder,Lagos,Civil Servant
+1925,CUST-1925,Cardholder,Enugu,Student
+1926,CUST-1926,Cardholder,Enugu,Student
+1927,CUST-1927,Cardholder,Lagos,Trader
+1928,CUST-1928,Cardholder,Enugu,Civil Servant
+1929,CUST-1929,Cardholder,Rivers State,Civil Servant
+1930,CUST-1930,Cardholder,Kano,Engineer
+1931,CUST-1931,Cardholder,Kano,Engineer
+1932,CUST-1932,Cardholder,Kano,Civil Servant
+1933,CUST-1933,Cardholder,Kano,Doctor
+1934,CUST-1934,Cardholder,Federal Capital Territory,Student
+1935,CUST-1935,Cardholder,Enugu,Teacher
+1936,CUST-1936,Cardholder,Enugu,Student
+1937,CUST-1937,Cardholder,Kano,Trader
+1938,CUST-1938,Cardholder,Kano,Trader
+1939,CUST-1939,Cardholder,Enugu,Trader
+1940,CUST-1940,Cardholder,Lagos,Teacher
+1941,CUST-1941,Cardholder,Kano,Student
+1942,CUST-1942,Cardholder,Federal Capital Territory,Doctor
+1943,CUST-1943,Cardholder,Enugu,Civil Servant
+1944,CUST-1944,Cardholder,Enugu,Teacher
+1945,CUST-1945,Cardholder,Lagos,Teacher
+1946,CUST-1946,Cardholder,Rivers State,Trader
+1947,CUST-1947,Cardholder,Kano,Teacher
+1948,CUST-1948,Cardholder,Enugu,Student
+1949,CUST-1949,Cardholder,Federal Capital Territory,Student
+1950,CUST-1950,Cardholder,Lagos,Student
