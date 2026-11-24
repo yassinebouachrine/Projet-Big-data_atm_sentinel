@@ -1,5 +1,5 @@
 # ATM Sentinel - Plateforme Distribuée Big Data ELK & Spark
-**Projet Intégrateur Final - Master SDBDIA (ENSIASD Taroudant)**  
+**Projet Intégrateur Final - Cycle d'ingénieur SDBDIA (ENSIASD Taroudant)**  
 **Binôme :** Yassine BOUACHRINE & Lahcen AHTAT  
 **Encadrant :** Pr. L. KARBIL (Année Universitaire 2026/2027)
 
