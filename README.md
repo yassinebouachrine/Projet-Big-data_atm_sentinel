@@ -1,4 +1,4 @@
-# ATM Sentinel - Plateforme Distribuée Big Data ELK & Spark
+# ATM Sentinel - Surveillance Distribuée et Analyse Analytique des Transactions de Guichets Automatiques Bancaires sous ELK et Spark
 **Projet Intégrateur Final - Cycle d'ingénieur SDBDIA (ENSIASD Taroudant)**  
 **Binôme :** Yassine BOUACHRINE & Lahcen AHTAT  
 **Encadrant :** Pr. L. KARBIL (Année Universitaire 2026/2027)
